@@ -6,6 +6,10 @@ Welcome to the official GitHub organization page for the **QUT RoboCup SSL Team*
 
 We are a dedicated team of robotics enthusiasts from the Queensland University of Technology (QUT) who are passionate about advancing the field of robotics and artificial intelligence. Our goal is to participate and excel in the RoboCup SSL competition, where we showcase our skills in multi-agent collaboration, AI strategies, and real-time decision-making.
 
+
+^^^^^
+CHAT-GPT created, template only
+
 ## Table of Contents
 
 - [Getting Started](#getting-started)
