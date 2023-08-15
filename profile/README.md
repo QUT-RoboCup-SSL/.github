@@ -2,6 +2,8 @@
 
 Welcome to the official GitHub organization page for the **QUT RoboCup SSL Team**! Here you will find all the resources, codebase, documentation, and tools related to our participation in the RoboCup SSL (Soccer Simulation League) competition. We're excited to share our journey and collaborate with the community to excel in this challenging and dynamic league.
 
+Competition Page: https://github.com/RoboCup-SSL
+
 ## About Us
 
 We are a dedicated team of robotics enthusiasts from the Queensland University of Technology (QUT) who are passionate about advancing the field of robotics and artificial intelligence. Our goal is to participate and excel in the RoboCup SSL competition, where we showcase our skills in multi-agent collaboration, AI strategies, and real-time decision-making.
